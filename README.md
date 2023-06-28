@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubVar
 - 👀 I’m interested in exploring new technologies.
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently learning Vue JS.
 - 💞️ I’m looking to collaborate on creative UI projects.
 - 📫 You can reach me on my mail id - svy2201@gmail.com ,  Contact- 9766219749
 
